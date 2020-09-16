@@ -2,7 +2,7 @@
 title: "Test Page"
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
-permalink: /404.html
+permalink: /test-page.html
 ---
 
 이거네요...
