@@ -11,7 +11,9 @@ main:
   - title: "Posts by Year"
     url: /posts/
   - title: "Sitemap"
-    url: /sitemap/    
+    url: /sitemap/
+  - title: "포스트(년간)"
+    url: /year-archive/    
 
 # - title: "Quick-Start Guide"
 #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
