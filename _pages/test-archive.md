@@ -2,5 +2,5 @@
 title: "Test"
 permalink: /test/
 layout: test
-author_profile: false
+author_profile: true
 ---
