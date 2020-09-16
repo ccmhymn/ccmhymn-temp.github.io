@@ -6,7 +6,7 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Post by Yearly"
+  - title: "Posts by Year"
     url: /posts/
 
 # - title: "Quick-Start Guide"
