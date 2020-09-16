@@ -1,6 +1,6 @@
 ---
 title: "Test Page"
 permalink: /test/
-layout: test
-author_profile: true
+layout: test-page
+author_profile: false
 ---
